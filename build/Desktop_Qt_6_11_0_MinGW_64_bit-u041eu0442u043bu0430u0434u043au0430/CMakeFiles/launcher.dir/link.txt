@@ -1,0 +1,3 @@
+D:\qt_downloads\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\launcher.dir/objects.a
+D:\qt_downloads\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\launcher.dir/objects.a @CMakeFiles\launcher.dir\objects1.rsp
+D:\qt_downloads\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\launcher.dir/objects.a -Wl,--no-whole-archive -o launcher.exe -Wl,--out-implib,liblauncher.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\launcher.dir\linkLibs.rsp

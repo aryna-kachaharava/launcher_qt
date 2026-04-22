@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/cal.jpg</file>
+        <file>icons/not.jpg</file>
+        <file>icons/cow.jpg</file>
+        <file>icons/tic.jpg</file>
+    </qresource>
+</RCC>
